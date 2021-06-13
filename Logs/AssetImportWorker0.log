@@ -1,0 +1,676 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'es' Physical Memory: 12167 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\UnityHubEditor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Proyecto/Proyecto Semestre
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51138
+Successfully changed project path to: D:/Proyecto/Proyecto Semestre
+D:/Proyecto/Proyecto Semestre
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 143.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Proyecto/Proyecto Semestre/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.036844 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 40.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.416 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.020101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.835 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.2 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 8.947100 ms (FindLiveObjects: 0.862400 ms CreateObjectMapping: 0.920100 ms MarkObjects: 6.881900 ms  DeleteObjects: 0.276200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VRM/Runtime/VRM.asmdef
+  artifactKey: Guid(05dd262a0c0a2f841b8252c8c3815582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/VRM.asmdef using Guid(05dd262a0c0a2f841b8252c8c3815582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90b9ea27f4d707ba8cae58f6ed458c1') in 0.195248 seconds
+  Import took 0.250014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/VRM/Runtime/Humanoid
+  artifactKey: Guid(dabe3b8d8da159f43a06701a61a69dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/Humanoid using Guid(dabe3b8d8da159f43a06701a61a69dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb503d5f3a6d75c4b95c47c6f0572ebb') in 0.032169 seconds
+  Import took 0.049956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/VRM/Runtime/FirstPerson
+  artifactKey: Guid(5a5c5355606c9da4cb354f3ae2ae4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/FirstPerson using Guid(5a5c5355606c9da4cb354f3ae2ae4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81996bbab2c7e5715698435abc0635e2') in 0.025422 seconds
+  Import took 0.028682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/VRM/Runtime/Format
+  artifactKey: Guid(8dc6b68ffeda9f54494eee1cd17af615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/Format using Guid(8dc6b68ffeda9f54494eee1cd17af615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca1b37579c4565ca8581550bb76638f') in 0.010582 seconds
+  Import took 0.045625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/VRM/Runtime/IO
+  artifactKey: Guid(0a722962c8944b04db7bf2bd5d39bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/IO using Guid(0a722962c8944b04db7bf2bd5d39bd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e092af8868433252ca81b835f8a93f') in 0.014082 seconds
+  Import took 0.034350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/VRM/Runtime/LookAt
+  artifactKey: Guid(a7e29185fa574ef4eab4b030a279a64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/LookAt using Guid(a7e29185fa574ef4eab4b030a279a64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf62c32b6de49ebe632cfe4ff3f10c79') in 0.009144 seconds
+  Import took 0.013354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.319909 seconds.
+  path: Assets/ProtaAvatar.Avatar/VrmAvatar.asset
+  artifactKey: Guid(e15b59f054b3e0b4bb555ef3d7e1b057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Avatar/VrmAvatar.asset using Guid(e15b59f054b3e0b4bb555ef3d7e1b057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0d4dcaa3c331394aa92b605c8339bb') in 0.064458 seconds
+  Import took 0.068478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.410885 seconds.
+  path: Assets/ProtaAvatar.AvatarDescription/AvatarDescription.asset
+  artifactKey: Guid(c0809a75560ba9d4f95e9ddc2a3e5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.AvatarDescription/AvatarDescription.asset using Guid(c0809a75560ba9d4f95e9ddc2a3e5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e508651f4705223b343d253c0811fbd7') in 0.051296 seconds
+  Import took 0.082746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570832 seconds.
+  path: Assets/ProtaAvatar.Materials/F00_000_Hair_00_HAIR.asset
+  artifactKey: Guid(22017ec5dc9642e45b1a4bbbb6d9d458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/F00_000_Hair_00_HAIR.asset using Guid(22017ec5dc9642e45b1a4bbbb6d9d458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeae9279470d5a55555cc66e76fde344') in 1.038101 seconds
+  Import took 1.060249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_001_01_Shoes_01_CLOTH.asset
+  artifactKey: Guid(de089ac349df3514f9311d8f7baf7695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_001_01_Shoes_01_CLOTH.asset using Guid(de089ac349df3514f9311d8f7baf7695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90051de8bdf0fbd3259e1add7a36a5fb') in 0.143099 seconds
+  Import took 0.165630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_FaceEyeline_00_FACE.asset
+  artifactKey: Guid(bb5b94d2cf5e787418d43a0bcc2a3f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_FaceEyeline_00_FACE.asset using Guid(bb5b94d2cf5e787418d43a0bcc2a3f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daeddc0f5fe74fff9ec21f9681da116e') in 0.126485 seconds
+  Import took 0.153087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Sorrow.asset
+  artifactKey: Guid(c5a523e92576a9b4c905f6713ebda8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Sorrow.asset using Guid(c5a523e92576a9b4c905f6713ebda8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d49283f213a57e03a98a1f10b2c1cf8') in 0.034021 seconds
+  Import took 0.037753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Angry.asset
+  artifactKey: Guid(cc3205f9870471a4e835a449fd84c001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Angry.asset using Guid(cc3205f9870471a4e835a449fd84c001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13d57cc5979bf92a2646eb3cfd24052') in 0.027113 seconds
+  Import took 0.048264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/LookUp.asset
+  artifactKey: Guid(48c3fb50de9753c4bad0a96b6fe3987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/LookUp.asset using Guid(48c3fb50de9753c4bad0a96b6fe3987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd9f05aa6a5af2a535aad04d67cf13d') in 0.024057 seconds
+  Import took 0.034677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000793 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.asset
+  artifactKey: Guid(c7ee2eaea807b8a428c40a3583e817db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.asset using Guid(c7ee2eaea807b8a428c40a3583e817db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbec3d448b7a39b89a58f0e6eb9c76a') in 0.084935 seconds
+  Import took 0.092659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Blink_R.asset
+  artifactKey: Guid(9dfddb44bdab5284183d572db31c50c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Blink_R.asset using Guid(9dfddb44bdab5284183d572db31c50c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dbc3bab07ba4cb239abe575bca1176') in 0.012254 seconds
+  Import took 0.034936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/LookDown.asset
+  artifactKey: Guid(e2f6cf25de6c43749ac0e79a64836390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/LookDown.asset using Guid(e2f6cf25de6c43749ac0e79a64836390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4596255dc2e552941bbada4f2ac987') in 0.013883 seconds
+  Import took 0.017371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ProtaAvatar.MetaObject/Meta.asset
+  artifactKey: Guid(8c49d31810e1c964a998778798abc82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.MetaObject/Meta.asset using Guid(8c49d31810e1c964a998778798abc82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798332755ab9bf467340535d960dd27a') in 0.244756 seconds
+  Import took 0.266920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_Face_00_SKIN.asset
+  artifactKey: Guid(a0eccc36912c8ab40b7217e589982c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_Face_00_SKIN.asset using Guid(a0eccc36912c8ab40b7217e589982c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa577b67cc3959bf1d5cc647c6e5f34') in 0.173791 seconds
+  Import took 0.189129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.U.asset
+  artifactKey: Guid(239136e41fd33294d90272728e5a3665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.U.asset using Guid(239136e41fd33294d90272728e5a3665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f40ea72d7d1ea80a254c3c92dc4538') in 0.012060 seconds
+  Import took 0.016339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_006_01_Tops_01_CLOTH.asset
+  artifactKey: Guid(2fb17fc003abc034d8e39d953a7cae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_006_01_Tops_01_CLOTH.asset using Guid(2fb17fc003abc034d8e39d953a7cae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50b5bc305cd6ee52aee0a5adf8e2edd') in 0.126008 seconds
+  Import took 0.147467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Fun.asset
+  artifactKey: Guid(cd5c18b6c2e8a4b4580a3a512d830ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Fun.asset using Guid(cd5c18b6c2e8a4b4580a3a512d830ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7f04851f731efa085cb88753aa75c6') in 0.010136 seconds
+  Import took 0.035098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_001_01_Bottoms_01_CLOTH.asset
+  artifactKey: Guid(e48500222c4e747479ba57f479810561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_001_01_Bottoms_01_CLOTH.asset using Guid(e48500222c4e747479ba57f479810561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61852363c890c07937d86937b45190fe') in 0.093781 seconds
+  Import took 0.140727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_EyeWhite_00_EYE.asset
+  artifactKey: Guid(25a84b0924cd55a46983c9c52ebb56cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_EyeWhite_00_EYE.asset using Guid(25a84b0924cd55a46983c9c52ebb56cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539b924054e1f8c2da66e682abbd2d83') in 0.082154 seconds
+  Import took 0.085502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Blink.asset
+  artifactKey: Guid(60ed3a6dea1b5454fafdb2de1c4c597f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Blink.asset using Guid(60ed3a6dea1b5454fafdb2de1c4c597f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56d7ef4330a942596ccabcbbe6980cc') in 0.010753 seconds
+  Import took 0.016160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/LookLeft.asset
+  artifactKey: Guid(3574d3619f4419849a612e09b4640881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/LookLeft.asset using Guid(3574d3619f4419849a612e09b4640881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075c84a1f66cb3669ea1d59f73f940e2') in 0.013875 seconds
+  Import took 0.027916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_FaceBrow_00_FACE.asset
+  artifactKey: Guid(ab6548630625273448a3505412fb6bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_FaceBrow_00_FACE.asset using Guid(ab6548630625273448a3505412fb6bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1ff744caf8755b2ece1adcf9f514ab') in 0.062492 seconds
+  Import took 0.090186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_EyeHighlight_00_EYE.asset
+  artifactKey: Guid(be1c995cc674337409dfd64c7e5a3c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_EyeHighlight_00_EYE.asset using Guid(be1c995cc674337409dfd64c7e5a3c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe1daf198ca7e9ced67998fb0795542') in 0.057598 seconds
+  Import took 0.077301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Neutral.asset
+  artifactKey: Guid(7905ea0d70da44f4f85f6d789bb98d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Neutral.asset using Guid(7905ea0d70da44f4f85f6d789bb98d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf2ffac94a8e634a8b9644b6d860f40') in 0.014259 seconds
+  Import took 0.017116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_FaceMouth_00_FACE.asset
+  artifactKey: Guid(57cba66fea28be648b8ab67df9ddee32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_FaceMouth_00_FACE.asset using Guid(57cba66fea28be648b8ab67df9ddee32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14be8f6331090615de63fa58d672738e') in 0.130138 seconds
+  Import took 0.162911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_EyeIris_00_EYE.asset
+  artifactKey: Guid(f5c9a31fd9d78504f822a327ffdaf03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_EyeIris_00_EYE.asset using Guid(f5c9a31fd9d78504f822a327ffdaf03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca6af3a45fa7884ac6949ce508c9c0b') in 0.066654 seconds
+  Import took 0.069583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.E.asset
+  artifactKey: Guid(c87e2b8632b0cd043968d6818d75337c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.E.asset using Guid(c87e2b8632b0cd043968d6818d75337c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd031d94e03bbac9d597485b8cc9fef22') in 0.013372 seconds
+  Import took 0.036885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/LookRight.asset
+  artifactKey: Guid(a3d206b012f6d324da4b8298f8d03e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/LookRight.asset using Guid(a3d206b012f6d324da4b8298f8d03e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfb59bb8ec4b2a6d0f7fce6027a1a26') in 0.029006 seconds
+  Import took 0.050130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_EyeExtra_01_EYE.asset
+  artifactKey: Guid(75d6b11c56fb5414f956b6d8b4089387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_EyeExtra_01_EYE.asset using Guid(75d6b11c56fb5414f956b6d8b4089387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d1bc805cc282226ecb2a836e3b31d2') in 0.082140 seconds
+  Import took 0.087431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Surprised.asset
+  artifactKey: Guid(afabbd4da3b849446b7dfecc58de3708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Surprised.asset using Guid(afabbd4da3b849446b7dfecc58de3708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09cd91dcac603c6e2ee8fbbd6d4e2792') in 0.011650 seconds
+  Import took 0.014656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_001_01_Body_00_SKIN.asset
+  artifactKey: Guid(824cc4ba8feee814789794919a1f5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_001_01_Body_00_SKIN.asset using Guid(824cc4ba8feee814789794919a1f5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78edff73eacb3f7e963c9faccd75c187') in 0.237507 seconds
+  Import took 0.240273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ProtaAvatar.Materials/M00_000_00_FaceEyelash_00_FACE.asset
+  artifactKey: Guid(efa4bf064d13b6f4186cd0f311e1081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Materials/M00_000_00_FaceEyelash_00_FACE.asset using Guid(efa4bf064d13b6f4186cd0f311e1081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fd033b7aae0a46f05c7963b19b50e6') in 0.070831 seconds
+  Import took 0.114595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.I.asset
+  artifactKey: Guid(ce3d099de89478646b7bd8985842e91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.I.asset using Guid(ce3d099de89478646b7bd8985842e91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2585e0d802848bb120864456b7dec7') in 0.016274 seconds
+  Import took 0.032229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Blink_L.asset
+  artifactKey: Guid(07cbcf86d70a5ef49b858ad87bc78496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Blink_L.asset using Guid(07cbcf86d70a5ef49b858ad87bc78496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc7a41882ead8fad372f920ec6b8445') in 0.033967 seconds
+  Import took 0.039788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.Joy.asset
+  artifactKey: Guid(ccef88bdd607b27428530041b9b90358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.Joy.asset using Guid(ccef88bdd607b27428530041b9b90358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a6b2a8afb23a1b45fadd1740ca9979') in 0.017385 seconds
+  Import took 0.035229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.A.asset
+  artifactKey: Guid(89ab91d3f92c63343bf7a5b0d2e21ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.A.asset using Guid(89ab91d3f92c63343bf7a5b0d2e21ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d12a6dcfb708b58eeab3a0df1581724') in 0.014416 seconds
+  Import took 0.042356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ProtaAvatar.BlendShapes/BlendShape.O.asset
+  artifactKey: Guid(b261d7f4a0386f44fa03570749399698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.BlendShapes/BlendShape.O.asset using Guid(b261d7f4a0386f44fa03570749399698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e7dd5de2bdc328b593ad29beff0dd4') in 0.013701 seconds
+  Import took 0.019860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.739808 seconds.
+  path: Assets/ProtaAvatar.Meshes/Body.baked.asset
+  artifactKey: Guid(187a64d889fde414b9d9d7384e395bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Meshes/Body.baked.asset using Guid(187a64d889fde414b9d9d7384e395bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62ae53b41367c3fa84a043677046569') in 0.451983 seconds
+  Import took 0.455643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/ProtaAvatar.Meshes/Hair001.baked.asset
+  artifactKey: Guid(71d108204d98bd641a5bccf6239c78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Meshes/Hair001.baked.asset using Guid(71d108204d98bd641a5bccf6239c78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ef27ed861cc5fdd1d9ccced4070bec') in 0.157800 seconds
+  Import took 0.176453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/ProtaAvatar.Meshes/Face.baked.asset
+  artifactKey: Guid(b15080f9e99e9224ab57dbb0d17ce754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Meshes/Face.baked.asset using Guid(b15080f9e99e9224ab57dbb0d17ce754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc0a52e2624615d73c3b9a34efccbcb') in 0.392944 seconds
+  Import took 0.396255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.616196 seconds.
+  path: Assets/ProtaAvatar.Textures/F00_000_Hair_00.png
+  artifactKey: Guid(1e4779abd6266e543bf085d067afcd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/F00_000_Hair_00.png using Guid(1e4779abd6266e543bf085d067afcd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0bc2659dd9fc29b3369f968bf72ea1') in 0.210383 seconds
+  Import took 0.232743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_FaceBrow_00.png
+  artifactKey: Guid(8100e5aafe5d5404bbbd3ed9b829af92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_FaceBrow_00.png using Guid(8100e5aafe5d5404bbbd3ed9b829af92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473e2733c8edf2bacb44d5d611c66dc0') in 0.020529 seconds
+  Import took 0.066608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_001_01_Shoes_01.png
+  artifactKey: Guid(11d00af24534e7b4982c4eac3353f907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_001_01_Shoes_01.png using Guid(11d00af24534e7b4982c4eac3353f907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb12ccff899b8bfb4c18a5fa6763fca') in 0.072879 seconds
+  Import took 0.089483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/ProtaAvatar.Textures/Matcap_RimHair.png
+  artifactKey: Guid(80549b855d0baed4bba6834512c6f37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/Matcap_RimHair.png using Guid(80549b855d0baed4bba6834512c6f37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d26647a6647884344c955297e56fd6b') in 0.074768 seconds
+  Import took 0.080628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ProtaAvatar.Textures/Shader_NoneBlack.png
+  artifactKey: Guid(1e5e67d8d2c03e342a767f5fc912e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/Shader_NoneBlack.png using Guid(1e5e67d8d2c03e342a767f5fc912e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf11c2a59f246e1c77e072813d79358') in 0.018291 seconds
+  Import took 0.023192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_FaceEyeline_00.png
+  artifactKey: Guid(ee26a65273aaf8d47b72c78495ea19cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_FaceEyeline_00.png using Guid(ee26a65273aaf8d47b72c78495ea19cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b63fdc2fa293a22d18bfe68aef57dd3') in 0.021746 seconds
+  Import took 0.038827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_001_01_Bottoms_01.png
+  artifactKey: Guid(3deda1a131d54564a9fe1ca8a3ff009f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_001_01_Bottoms_01.png using Guid(3deda1a131d54564a9fe1ca8a3ff009f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f5d1ab3119502c106cfb330ffb5517') in 0.018369 seconds
+  Import took 0.029196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_EyeWhite_00.png
+  artifactKey: Guid(492d0cfb579392a498cda934e7c1d42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_EyeWhite_00.png using Guid(492d0cfb579392a498cda934e7c1d42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e86539a2484527f913d675f5d1c8730') in 0.019540 seconds
+  Import took 0.023449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_EyeHighlight_00.png
+  artifactKey: Guid(4d246a2a6c773c34f9f8bb740ea9f540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_EyeHighlight_00.png using Guid(4d246a2a6c773c34f9f8bb740ea9f540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfad01998bd6dbb7678fd43eec122a3') in 0.017989 seconds
+  Import took 0.026193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000916 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_FaceEyelash_00.png
+  artifactKey: Guid(1ddd80c4d4567334e910f624a795b5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_FaceEyelash_00.png using Guid(1ddd80c4d4567334e910f624a795b5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2cf4afec22c46816f691aae822957a') in 0.020374 seconds
+  Import took 0.025443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_Face_00.png
+  artifactKey: Guid(84d363fc7f6115b4a81dc4e919296d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_Face_00.png using Guid(84d363fc7f6115b4a81dc4e919296d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8866507fd9cad163380902c4297e046e') in 0.018159 seconds
+  Import took 0.038327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_001_00_Body_00_nml.normal.png
+  artifactKey: Guid(65e9734c0f1bf7445842681c04d7ce0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_001_00_Body_00_nml.normal.png using Guid(65e9734c0f1bf7445842681c04d7ce0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14cec7cf76dbde06ef527b6a78ea739a') in 0.050564 seconds
+  Import took 0.054187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_EyeIris_00.png
+  artifactKey: Guid(9f777aa0f7a27e748a3361334feab8f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_EyeIris_00.png using Guid(9f777aa0f7a27e748a3361334feab8f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15c2b3410dd6ddd7a1f7f01541c7020') in 0.027623 seconds
+  Import took 0.031549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/ProtaAvatar.Textures/Thumbnail.png
+  artifactKey: Guid(45d754fecef511141b8eacaf59898fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/Thumbnail.png using Guid(45d754fecef511141b8eacaf59898fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62c9ea3c6fda84c2b70ce93af228d92') in 0.025628 seconds
+  Import took 0.031051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_Face_00_out.png
+  artifactKey: Guid(e6ca5fbfd35696448ad6fbbf0b3e5486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_Face_00_out.png using Guid(e6ca5fbfd35696448ad6fbbf0b3e5486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851b1bb5e4ba39c39ee083bcbfac4f44') in 0.020282 seconds
+  Import took 0.024306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/ProtaAvatar.Textures/Matcap_Rim.png
+  artifactKey: Guid(d2c953cef9374aa419285e8e19728bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/Matcap_Rim.png using Guid(d2c953cef9374aa419285e8e19728bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73952641aa2be5b3c2ba3f107fa20b97') in 0.089627 seconds
+  Import took 0.094414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_001_00_Body_00.png
+  artifactKey: Guid(0aa70796fb169994b9f81be0cbee520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_001_00_Body_00.png using Guid(0aa70796fb169994b9f81be0cbee520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5352d67916d7e4a4b6397d81e7ba729') in 0.018419 seconds
+  Import took 0.024241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_FaceMouth_00.png
+  artifactKey: Guid(0c871de569ab01b46ad36b4896144420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_FaceMouth_00.png using Guid(0c871de569ab01b46ad36b4896144420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3894ae9baf6ea0561d39f6e28d3e1c64') in 0.020724 seconds
+  Import took 0.025758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ProtaAvatar.Textures/F00_000_Hair_00_nml.normal.png
+  artifactKey: Guid(6735c22bbb7e4ef4ab721c6be40d5759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/F00_000_Hair_00_nml.normal.png using Guid(6735c22bbb7e4ef4ab721c6be40d5759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3db8dd4db82f9f26f2595a1cf55dd0') in 0.026688 seconds
+  Import took 0.046397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_EyeExtra_01.png
+  artifactKey: Guid(0e8c10ab1cb4faf468967545edd7fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_EyeExtra_01.png using Guid(0e8c10ab1cb4faf468967545edd7fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13f9692ec5307d0650f8e9fb16440d8') in 0.022175 seconds
+  Import took 0.027613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_000_00_Face_00_nml.normal.png
+  artifactKey: Guid(ebb32933993b1d04cbd120863d5ec58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_000_00_Face_00_nml.normal.png using Guid(ebb32933993b1d04cbd120863d5ec58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e562952ded18442b869219a9e68a790') in 0.022498 seconds
+  Import took 0.026409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/ProtaAvatar.Textures/Shader_NoneNormal.normal.png
+  artifactKey: Guid(f1511fc2e292a414485bdb9aa97c4167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/Shader_NoneNormal.normal.png using Guid(f1511fc2e292a414485bdb9aa97c4167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1793b6e1c0d5edb863e67da28851fd') in 0.021165 seconds
+  Import took 0.025368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_006_01_Tops_01.png
+  artifactKey: Guid(bba84eb6358a3904e8d9e9dcc10f6405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_006_01_Tops_01.png using Guid(bba84eb6358a3904e8d9e9dcc10f6405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc36832fa5eea4f9aaa3c10282e9cb1') in 0.024456 seconds
+  Import took 0.029487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/ProtaAvatar.Textures/F00_000_Hair_00_spe.png
+  artifactKey: Guid(475f064bd6a7c764c8eaff8087f79fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/F00_000_Hair_00_spe.png using Guid(475f064bd6a7c764c8eaff8087f79fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19d2149aef6b403380a431917d39de8') in 0.019009 seconds
+  Import took 0.024421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012305 seconds.
+  path: Assets/ProtaAvatar.Textures/M00_006_01_Tops_01.png
+  artifactKey: Guid(bba84eb6358a3904e8d9e9dcc10f6405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.Textures/M00_006_01_Tops_01.png using Guid(bba84eb6358a3904e8d9e9dcc10f6405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc36832fa5eea4f9aaa3c10282e9cb1') in 0.026274 seconds
+  Import took 0.031546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.087478 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7be4d7ab1f9f93d5c9864b0cb66e4d1') in 0.017684 seconds
+  Import took 0.042932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.828743 seconds.
+  path: Assets/VRM/Runtime/IO/VRMExporter.cs
+  artifactKey: Guid(73f9ea5f415aa1d449d6cd63aeaccb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/IO/VRMExporter.cs using Guid(73f9ea5f415aa1d449d6cd63aeaccb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d43c1196cd7506ed598ca71af54c442') in 0.064347 seconds
+  Import took 0.073579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047016 seconds.
+  path: Assets/VRM/Runtime/IO/VRMExporter.cs
+  artifactKey: Guid(73f9ea5f415aa1d449d6cd63aeaccb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/IO/VRMExporter.cs using Guid(73f9ea5f415aa1d449d6cd63aeaccb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d43c1196cd7506ed598ca71af54c442') in 0.153300 seconds
+  Import took 0.163051 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.2 MB.
+System memory in use after: 72.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 14.410800 ms (FindLiveObjects: 2.161700 ms CreateObjectMapping: 0.904200 ms MarkObjects: 11.182900 ms  DeleteObjects: 0.156700 ms)
+

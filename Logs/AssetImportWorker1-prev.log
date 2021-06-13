@@ -1,0 +1,145 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'es' Physical Memory: 12167 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\UnityHubEditor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Proyecto/Proyecto Semestre
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52359
+Successfully changed project path to: D:/Proyecto/Proyecto Semestre
+D:/Proyecto/Proyecto Semestre
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Proyecto/Proyecto Semestre/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/UnityHubEditor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007729 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.000 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.063 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 2.333500 ms (FindLiveObjects: 0.186500 ms CreateObjectMapping: 0.072200 ms MarkObjects: 1.952100 ms  DeleteObjects: 0.121600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Import Request.
+  path: Assets/VRM
+  artifactKey: Guid(8047ecfc909c7f044bad5c7d10844e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM using Guid(8047ecfc909c7f044bad5c7d10844e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a40dbba687b4f0ed9d162500bc1a8cb') in 0.081808 seconds
+  Import took 0.126865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.203816 seconds.
+  path: Assets/VRMShaders/GLTF/IO/Runtime/VRMShaders.GLTF.IO.Runtime.asmdef
+  artifactKey: Guid(da3e51d19d51a544fa14d43fee843098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRMShaders/GLTF/IO/Runtime/VRMShaders.GLTF.IO.Runtime.asmdef using Guid(da3e51d19d51a544fa14d43fee843098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ddae10135d903093e1ab98619b3aaf2') in 0.190290 seconds
+  Import took 0.195036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.335746 seconds.
+  path: Assets/ProtaAvatar.prefab
+  artifactKey: Guid(cd6a6aa74aad1794ca239267b59cd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.prefab using Guid(cd6a6aa74aad1794ca239267b59cd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39837926aeb1020cc3c8b7b8e78f4335') in 4.675239 seconds
+  Import took 4.681045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043398 seconds.
+  path: Assets/ProtaAvatar.prefab
+  artifactKey: Guid(cd6a6aa74aad1794ca239267b59cd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProtaAvatar.prefab using Guid(cd6a6aa74aad1794ca239267b59cd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39837926aeb1020cc3c8b7b8e78f4335') in 0.207379 seconds
+  Import took 0.214796 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004804 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1998.
+Total: 6.840700 ms (FindLiveObjects: 0.513300 ms CreateObjectMapping: 0.322400 ms MarkObjects: 5.801200 ms  DeleteObjects: 0.196900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Import Request.
+  Time since last request: 1645.714046 seconds.
+  path: Assets/VRM/Runtime/Humanoid/VRMHumanoidDescription.cs
+  artifactKey: Guid(3869812175467a143ab9cd865752b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/Humanoid/VRMHumanoidDescription.cs using Guid(3869812175467a143ab9cd865752b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9978378e2cae248210a263bdd9e35f51') in 0.018871 seconds
+  Import took 0.058410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087464 seconds.
+  path: Assets/VRM/Runtime/Humanoid/VRMHumanoidDescription.cs
+  artifactKey: Guid(3869812175467a143ab9cd865752b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM/Runtime/Humanoid/VRMHumanoidDescription.cs using Guid(3869812175467a143ab9cd865752b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9978378e2cae248210a263bdd9e35f51') in 0.003473 seconds
+  Import took 0.007511 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
